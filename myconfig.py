@@ -84,7 +84,7 @@ PWM_STEERING_THROTTLE = {
     "PWM_THROTTLE_INVERTED": False,         # True if hardware requires an inverted PWM pulse
     "STEERING_LEFT_PWM": 500,               #530pwm value for full left steering
     "STEERING_RIGHT_PWM": 330,              #300pwm value for full right steering
-    "THROTTLE_FORWARD_PWM": 470,            #pwm value for max forward throttle
+    "THROTTLE_FORWARD_PWM": 430,            #pwm value for max forward throttle
     "THROTTLE_STOPPED_PWM": 400,            #pwm value for no movement
     "THROTTLE_REVERSE_PWM": 250,            #pwm value for max reverse throttle
 }
